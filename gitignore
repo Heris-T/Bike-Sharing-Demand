@@ -1,0 +1,12 @@
+# AutoGluon model artifacts
+/ag_models/
+/AutogluonModels/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Other system files
+.DS_Store
